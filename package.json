@@ -1,0 +1,13 @@
+{
+  "name": "rafflebox-request-logger",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/rafflebox-technologies-inc/rafflebox-request-logger.git",
+  "author": "Jamie Archibald <jamie.archibald@rafflebox.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "config-dug": "^1.7.2",
+    "connect": "^3.7.0",
+    "express-serve-static-core": "^0.1.1"
+  }
+}
